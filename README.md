@@ -3,7 +3,7 @@ Definizione:
 ```
 automagico: evento/azione automatica che sembra una magia
 ```
-Uso comune derivato:
+Derivati:
 ```
-automagimente: per magia automatica
+automagicamente: automaticamente (con stupore magico)
 ```
